@@ -3,6 +3,7 @@
 <p>We have made the world map with help of <a href="https://plotly.com">Plotly</a></p>
 <br/>
 <strong>Some major insights for energy emission in the USA are as follows:</strong>
+<br/>
 <img src="https://github.com/pujaagarwal5263/EcoSavvy-DataAnalysis/blob/main/insights/output2.png" alt="Alt Text">
 
 <br/>
